@@ -15,7 +15,4 @@
     echo "<br>";
     var_dump($b);
 
-
-
-
 ?>
